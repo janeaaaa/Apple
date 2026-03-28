@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Debug Index</title>
+</head>
+<body>
+    <h1>Debug - 直接看JS输出</h1>
+    <pre id="output"></pre>
+    <div id="postList"></div>
+    <script>
+        // 捕获所有错误
+        window.onerror = function(msg, url, line, col, error) {
+            document.getElementById('output').innerHTML += '<br>Error: ' + msg + ' Line: ' + line;
+            return true;
+        };
+        
+        document.getElementById('output').innerHTML = '开始执行JS...';
+        
+        // 模拟 index.html 里的关键代码
+        var allPosts = [
+            {id: 1, title: "测试1", category: "task", date: "2026-03-25", tags: ["test"], content: "内容1"},
+            {id: 2, title: "测试2", category: "task", date: "2026-03-25", tags: ["test"], content: "内容2"}
+        ];
+        
+        document.getElementById('output').innerHTML += '<br>allPosts 定义完成, 长度: ' + allPosts.length;
+        
+        function renderPosts(posts) {
+            var container = document.getElementById('postList');
+            if (posts.length === 0) {
+                container.innerHTML = '<div class="card">暂无文章</div>';
+                return;
+            }
+            var html = '';
+            posts.forEach(function(post) {
+                html += '<div class="card post-item" onclick="showPost(' + post.id + ')">' +
+                    '<div class="title">' + post.title + '</div>' +
+                    '<div class="meta">' + post.date + '</div>' +
+                    '</div>';
+            });
+            container.innerHTML = html;
+        }
+        
+        document.getElementById('output').innerHTML += '<br>调用renderPosts...';
+        renderPosts(allPosts);
+        document.getElementById('output').innerHTML += '<br>renderPosts完成';
+    </script>
+</body>
+</html>

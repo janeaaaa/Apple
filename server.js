@@ -55,8 +55,10 @@ const server = http.createServer((req, res) => {
                 res.end('Server Error');
             }
         } else {
-            // 成功返回文件
-            res.writeHead(200, { 'Content-Type': contentType });
+            // 成功返回文件 - 所有文本类型都加 UTF-8
+            const isText = contentType.includes('text') || contentType.includes('json') || contentType.includes('javascript');
+            const charset = isText ? '; charset=UTF-8' : '';
+            res.writeHead(200, { 'Content-Type': contentType + charset });
             res.end(content);
         }
     });

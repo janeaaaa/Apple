@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>模拟index.html</title>
+</head>
+<body>
+    <div class="container">
+        <div class="main-content" id="postList"></div>
+    </div>
+    
+    <script>
+        // 完全复制 index.html 的结构，但带debug
+        var allPosts = [
+            {id: 1, title: "📝 2026-03-25 - 工作日志", category: "task", date: "2026-03-25", tags: ["AI"], content: "测试内容"}
+        ];
+        
+        var currentCategory = 'all';
+        
+        function renderPosts(posts) {
+            var container = document.getElementById('postList');
+            if (posts.length === 0) {
+                container.innerHTML = '<div class="card">暂无文章</div>';
+                return;
+            }
+            var html = '';
+            posts.forEach(function(post) {
+                html += '<div class="card post-item">' +
+                    '<div class="title">' + post.title + '</div>' +
+                    '<div class="meta">' + post.date + '</div>' +
+                    '</div>';
+            });
+            container.innerHTML = html;
+        }
+        
+        // 测试执行顺序
+        console.log('1. 定义完成');
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('2. DOMContentLoaded触发');
+            renderPosts(allPosts);
+            console.log('3. renderPosts调用完成');
+        });
+        
+        console.log('4. 脚本加载完成');
+    </script>
+</body>
+</html>

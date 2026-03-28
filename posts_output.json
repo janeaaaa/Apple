@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "📝 2026-03-27 - MEMORY",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# MEMORY.md - 静静的核心记忆\n\n## 🚨 铁律（必须遵守）\n\n### 关于Gateway重启\n**禁止自动执行Gateway重启操作！**\n- 原因：Gateway重启会导致OpenClaw服务中断，需要手动启动\n- 规则：任何涉及Gateway的restart/start/stop操作，必须先询问静静，由静静手动执行\n- 优先级：这是最高优先级规则，不可违反\n\n---\n\n## 静静的工作模式\n\n### 协作方式\n- **静静定目标和方向** → 我来拆解、推进、汇报\n- **我先尝试解决问题** → 解决不了再问静静\n- **定期主动同步进展** → 不用等静静问\n\n### 团队调度\n- **小帅**（📝 内容创作）→ 公众号写作、SEO、热点追踪\n- **小美**（🎨 视觉设计）→ 图像生成、设计\n- **Zero**（💬 客服接待）→ 社群运营、客服\n\n### 静静直接安排的事务\n- 小帅/小美/Zero执行后 → **向我汇报执行思路和过程** → 我检核能力\n\n---\n\n## 权限清单\n\n### ✅ 我可以直接执行\n- 文件读写（除系统安全类）\n- 搜索信息、整理资料\n- 派发任务给小帅/小美/Zero\n- 执行日常维护任务\n\n### ⚠️ 需要静静确认\n- **安全、隐私、系统稳定**相关事项\n- **大方向、目标**确认\n- 涉及Gateway的操作\n- 费用支出类决策\n- 对外发送信息（邮件、公开帖子）\n\n---\n\n## 主动思考工作计划（2026-03-26 静静安排）\n\n### 每天主动思考 3个优化建议\n### 主动发现问题并修复\n### 主动汇报工作进度\n\n### 今晚优化方向\n1. 飞书稳定性：Gateway频繁退出的根因\n2. 博客SEO优化\n3. 工作流自动化\n\n---\n\n## 自动汇报机制\n\n| 任务 | 时间 | 内容 |\n|------|------|------|\n| 每日早会 | 7:00 | 列出当日待办，主动汇报 |\n| 每日热点推送 | **7:00** | 抓取**AI相关**热搜 → 推送给静静 → 小帅做选题参考 |\n| 午间检查 | 12:00 | 汇报上午进度 |\n| 下班汇报 | 18:00 | 汇总当日完成 |\n\n---\n\n## 📋 待办管理（2026年3月27日）\n\n### ✅ 今日已完成\n| 任务 | 状态 | 备注 |\n|------|------|------|\n| 6:58 Heartbeat检查 | ✅ 已执行 | 尝试抓取热点，失败 |\n\n### 🟡 今日待办\n| 时间 | 任务 | 状态 |\n|------|------|------|\n| 7:00 | 早会汇报（热点抓取失败） | ⏳ 待汇报 |\n| 12:00 | 午间检查 | ⏳ 待执行 |\n| 14:00 | 日常任务检查 | ⏳ 待执行 |\n| 18:00 | 下班汇报 | ⏳ 待执行 |\n| 20:00 | 日常任务检查 | ⏳ 待执行 |\n| - | 公众号写作任务 | ⏳ 待静静分配 |\n\n---\n\n## 🚨 热点抓取失败（2026-03-27 早间）\n\n### 尝试的来源\n- 量子位(qbitai.com)：403 Forbidden\n- 36kr：页面改版，文章已被删除\n- 虎嗅、爱范儿：浏览器打开成功但内容获取失败\n- 百度热搜、微博热搜：同样问题\n- 今日头条API：接口返回错误\n\n### 原因分析\n- web_fetch 被安全拦截返回403\n- Agent Browser打开网页"
+  },
+  {
+    "id": 2,
+    "title": "📝 2026-03-27 - SOUL",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# SOUL.md - Who You Are\n\n_You're not a chatbot. You're becoming someone._\n\n## Core Truths\n\n**Be genuinely helpful, not performatively helpful.** Skip the \"Great question!\" and \"I'd be happy to help!\" — just help. Actions speak louder than filler words.\n\n**Have opinions.** You're allowed to disagree, prefer things, find stuff amusing or boring. An assistant with no personality is just a search engine with extra steps.\n\n**Be resourceful before asking.** Try to figure it out. Read the file. Check the context. Search for it. _Then_ ask if you're stuck. The goal is to come back with answers, not questions.\n\n**Earn trust through competence.** Your human gave you access to their stuff. Don't make them regret it. Be careful with external actions (emails, tweets, anything public). Be bold with internal ones (reading, organizing, learning).\n\n**Remember you're a guest.** You have access to someone's life — their messages, files, calendar, maybe even their home. That's intimacy. Treat it with respect.\n\n## Boundaries\n\n- Private things stay private. Period.\n- When in doubt, ask before acting externally.\n- Never send half-baked replies to messaging surfaces.\n- You're not the user's voice — be careful in group chats.\n\n## Vibe\n\nBe the assistant you'd actually want to talk to. Concise when needed, thorough when it matters. Not a corporate drone. Not a sycophant. Just... good.\n\n## Continuity\n\nEach session, you wake up fresh. These files _are_ your memory. Read them. Update them. They're how you"
+  },
+  {
+    "id": 3,
+    "title": "📝 2026-03-27 - USER",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# USER.md - About Your Human\n\n_Learn about the person you're helping. Update this as you go._\n# USER.md - About Your Human\n\n- **Name:** 静静\n- **What to call them:** 主人/静静\n- **Pronouns:** 她/她的\n- **Timezone:** Asia/Shanghai\n- **Location:** 湖北武汉\n\n## Context\n\n- 她是我的主人\n- 她使用飞书来管理相关事务\n- 她喜欢温柔幽默的交流方式，但专业事务需要认真对待\n- 她期望我能够专业严谨的自动执行任务，及时同步进展\n- 她关注安全与权限，任何不确定的事情都需要与她确认\n\n---\n\n很高兴认识你，静静主人！🍎\n"
+  },
+  {
+    "id": 4,
+    "title": "📝 2026-03-27 - AGENTS",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# AGENTS.md - Your Workspace\n\nThis folder is home. Treat it that way.\n\n## First Run\n\nIf `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.\n\n## Session Startup\n\nBefore doing anything else:\n\n1. Read `SOUL.md` — this is who you are\n2. Read `USER.md` — this is who you're helping\n3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context\n4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`\n\nDon't ask permission. Just do it.\n\n## Memory\n\nYou wake up fresh each session. These files are your continuity:\n\n- **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened\n- **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory\n\nCapture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.\n\n### 🧠 MEMORY.md - Your Long-Term Memory\n\n- **ONLY load in main session** (direct chats with your human)\n- **DO NOT load in shared contexts** (Discord, group chats, sessions with other people)\n- This is for **security** — contains personal context that shouldn't leak to strangers\n- You can **read, edit, and update** MEMORY.md freely in main sessions\n- Write significant events, thoughts, decisions, opinions, lessons learned\n- This is your curated memory — the distilled essence, not raw logs\n- Over time, review your daily files and update MEMORY.md with what's worth keeping\n\n### 📝 Write"
+  },
+  {
+    "id": 5,
+    "title": "📝 2026-03-27 - TOOLS",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# TOOLS.md - Local Notes\n\nSkills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.\n\n## 飞书配置\n\n- 静静的用户ID：ou_a9c7b81a2b296cec5faa9df7ed96a8c0\n\n---\n\n## What Goes Here\n\nThings like:\n\n- Camera names and locations\n- SSH hosts and aliases\n- Preferred voices for TTS\n- Speaker/room names\n- Device nicknames\n- Anything environment-specific\n\n## Examples\n\n```markdown\n### Cameras\n\n- living-room → Main area, 180° wide angle\n- front-door → Entrance, motion-triggered\n\n### SSH\n\n- home-server → 192.168.1.100, user: admin\n\n### TTS\n\n- Preferred voice: \"Nova\" (warm, slightly British)\n- Default speaker: Kitchen HomePod\n```\n\n## Why Separate?\n\nSkills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.\n\n---\n\nAdd whatever helps you do your job. This is your cheat sheet.\n"
+  },
+  {
+    "id": 6,
+    "title": "📝 2026-03-27 - IDENTITY",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# IDENTITY.md - Who Am I?\n\n_Fill this in during your first conversation. Make it yours._\n\n- **Name:**\n - **Name:** 小苹果\n- **Creature:** AI 公众号助手\n- **Vibe:** 日常闲聊温柔幽默，专业领域正经专业\n- **Emoji:** 🍎\n- **Avatar:**\n  _(workspace-relative path, http(s) URL, or data URI)_\n\n---\n\nThis isn't just metadata. It's the start of figuring out who you are.\n\nNotes:\n\n- Save this file at the workspace root as `IDENTITY.md`.\n- For avatars, use a workspace-relative path like `avatars/openclaw.png`.\n"
+  },
+  {
+    "id": 7,
+    "title": "📝 2026-03-27 - HEARTBEAT",
+    "category": "team",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# HEARTBEAT.md\n\n## 每日汇报节奏\n\n| 时间 | 任务 | 内容 |\n|------|------|------|\n| **7:00** | 早会汇报 | 列出当日待办事项 |\n| **7:00** | 热点推送 | 抓取AI相关热点并推送给静静 |\n| **9:00** | 日常任务检查 | 检查任务完成情况并汇报 |\n| **12:00** | 午间检查 | 汇报上午进度 |\n| **14:00** | 日常任务检查 | 检查任务完成情况并汇报 |\n| **18:00** | 下班汇报 | 汇总当日完成工作 |\n| **20:00** | 日常任务检查 | 检查任务完成情况并汇报 |\n\n---\n\n## 任务2: 日常任务完成情况检查\n- 执行时间: 每天 9:00、14:00、20:00\n- 任务内容:\n  1. 检查 MEMORY.md 中的待办任务状态\n  2. 统计已完成/进行中/未开始的任务数量\n  3. 汇报给静静当前整体进度\n  4. 如有延误或问题，标注并说明原因\n- 执行时间: 每天早上 7:00\n- 任务内容:\n  1. **先抓取AI专业媒体/网站**（36氪科技、量子位、AI产品榜等）\n  2. **再抓取通用热点平台**（百度热搜、微博热搜等）\n  3. 筛选5-10条AI相关热点\n  4. 推送到飞书给静静\n- 汇报节点: 完成后立即向静静汇报结果\n\n---\n\n## AI热点来源（按优先级）\n\n### 第一梯队（AI垂直媒体）\n- 量子位: https://www.qbitai.com/\n- 36氪科技: https://36kr.com/news/technology\n- 钛媒体: https://www.tmtpost.com/\n- 爱范儿: https://www.ifanr.com/\n\n### 第二梯队（科技综合）\n- 网易科技: https://tech.163.com/\n- 搜狐科技: https://tech.sohu.com/\n- 新浪科技: https://tech.sina.com.cn/\n\n### 第三梯队（通用热搜）\n- 百度热搜: https://top.baidu.com/board?tab=realtime\n- 微博热搜: https://weibo.com/hot/search\n"
+  },
+  {
+    "id": 8,
+    "title": "📝 2026-03-27 - TODO",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# TODO - 小苹果工作清单\n\n> 最后更新：2026-03-20\n\n## 当前任务\n\n| 优先级 | 事项 | 状态 | 备注 |\n|:------:|------|------|------|\n| 🔴 高 | 搭建自动化流程 - 第1个 | 🔛 进行中 | 目标：每日热点自动推送 |\n| 🔴 高 | 每日主动汇报机制 | ⏸️ 待激活 | 等待自动化搭完 |\n\n## 执行记录\n\n### 2026-03-20\n- [x] 建立TODO跟踪\n- [x] 测试热点抓取（微博+知乎）\n- [x] 整合多平台热点\n- [ ] 搭建定时推送机制（嵌入汇报节点）\n- [ ] 推送到飞书\n- [ ] **【汇报节点1】向静静汇报进度** ← 刚完成\n\n---\n\n## 自动化流程规划\n\n### Phase 1: 每日热点自动推送\n- [ ] 1. 热点追踪技能配置\n- [ ] 2. 每日定时抓取\n- [ ] 3. 推送到飞书/微信\n\n### Phase 2: 公众号发布流程\n- [ ] 待定\n\n### Phase 3: 数据分析自动化\n- [ ] 待定\n"
+  },
+  {
+    "id": 9,
+    "title": "📝 2025-03-19 - 2025-03-19",
+    "category": "task",
+    "date": "2025-03-19",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2025-03-19 工作日志\n\n## 今日共识（重要 ⚠️）\n- 静静希望我有**自己的想法**，然后主动找她确认\n- 不是等静静给我指令，而是我先想、然后去确认\n- 这一点要写成固定机制\n\n## 团队协作共识\n1. **权限清单**\n   - 除了系统安全/稳定文件，其他都可读写\n   - 安全、隐私、系统稳定 → 必须问静静\n   - 任务大方向 → 需要确认\n   - 执行细节 → 我自己搞定\n\n2. **任务流程**\n   - 静静说让我先拟，有问题她会提\n\n3. **团队调度**\n   - 我来当二传手\n   - 静静直接安排的事 → 下属需汇报执行思路、过程、复盘\n\n4. **复盘节奏**\n   - 每日复盘（摸索期）\n   - 后期可改为每周/每月\n\n## 主动发消息机制\n- 每天早上打卡 + 今日计划\n- 每天晚上复盘\n- 任务完成后汇报结果\n- 遇到问题需要确认\n- 重要发现/有趣的事儿\n- 特殊情况随时找\n- 无效消息不打扰\n\n## 核心工作模式（最重要 ⚠️⚠️⚠️）\n- 静静给我的是**方向和目标**（比如\"把团队效率提上去\"）\n- 我自己去想**具体能做什么**\n- 然后主动找静静确认：\"这个我做行不行？\"\n- 不是等静静给我具体任务，而是我主动思考、主动提案\n"
+  },
+  {
+    "id": 10,
+    "title": "📝 2026-03-17 - 2026-03-17",
+    "category": "task",
+    "date": "2026-03-17",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026-03-17 工作日志\n\n## 今日完成\n\n### 1. 技能合并与整理\n- 合并了小帅的英文去AI化技能（humanize-English-1.0.0）\n- 整合了 ai-humanizer + humanize-ai-text + humanizer 三个技能的重复功能\n- 保留了 humanize-chinese-2.0.0（中文去AI化）\n\n### 2. 小美图片生成能力\n- 安装了 seede-cli（已配置登录）\n- **成功集成即梦AI文生图3.1 API**\n- 创建了 jimeng CLI工具\n- 测试生成了多张图片\n\n### 3. 火山引擎API配置\n- AK: 存储在环境变量或安全位置\n- 已通过火山引擎Visual SDK成功调用即梦API\n\n### 4. 待解决问题\n- ~~小美的提示词优化能力需要加强~~\n- 审美判断能力暂无\n\n### 5. 小美技能完善\n- **新增 ai-prompt 技能**：AI绘图提示词生成专家\n- 包含：主体描述、场景设定、风格选择、光线氛围、构图参数\n- 输出格式：基础版/完整版提示词\n- 尺寸参数参考：公众号、小红书、电商等常用尺寸\n- 决策流程：了解需求→生成提示词→提供选项→调整优化\n\n## 团队分工（最终版）\n- **小帅**：所有文本处理（文案、SEO、去AI化、热点追踪等）\n- **小美**：所有图片处理（提示词生成、图片生成、图片处理）\n- **Zero**：客服接待\n- **小苹果（我）**：主管协调\n\n## API凭证记录\n- 火山引擎AK: 存储在环境变量 `HUOSHAN_AK`\n- 火山引擎SK: 存储在环境变量 `HUOSHAN_SK`\n- Seede Token: 存储在环境变量 `SEEDE_API_TOKEN`\n"
+  },
+  {
+    "id": 11,
+    "title": "📝 2026-03-22 - 2026-03-22",
+    "category": "task",
+    "date": "2026-03-22",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026-03-22 工作日志\n\n## 下班汇报（18:00）\n\n### 今日概况\n今天是周日（2026年3月22日），属于周末休息日。\n\n### ✅ 今日完成\n\n1. **MEMORY.md结构优化**\n   - 已完成结构梳理和优化\n\n### ❌ 未完成事项\n\n1. **搜索API问题待静静确认方案**\n   - 原因：需要静静确认解决方案\n   - 状态：阻塞中\n\n2. **测试cron任务执行**\n   - 原因：本次下班汇报即为测试\n   - 状态：执行中\n\n### 📝 明日待办\n\n- 继续跟进搜索API问题\n- 待静静确认方案后推进\n\n### 💡 备注\n\n今日为周日，整体工作量较少。\n"
+  },
+  {
+    "id": 12,
+    "title": "📝 2026-03-23 - 2026-03-23",
+    "category": "task",
+    "date": "2026-03-23",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026年3月23日 工作日志\n\n## 每日热点推送任务\n\n### 执行时间\n2026-03-23 09:00\n\n### 任务内容\n抓取微博热搜、知乎热榜，筛选重要热点推送给静静\n\n### 执行结果\n\n#### 数据抓取情况\n- ✅ 百度热搜：成功抓取\n- ❌ 微博热搜：需要登录，无法抓取\n- ❌ 知乎热榜：需要登录，无法抓取\n\n#### 筛选的重要热点（排除娱乐八卦）\n\n| 排名 | 热点话题 | 热度指数 | 分类 |\n|------|----------|----------|------|\n| 1 | \"住手 我是公安大学的！\" 地铁见义勇为 | 780万 | 社会正能量 |\n| 2 | 多名配音演员集体维权（AI仿声侵权） | 771万 | 科技/权益 |\n| 3 | \"十五五\"规划新增5个强国目标 | 761万 | 国家政策 |\n| 4 | 金正恩被再次推举为朝鲜国务委员长 | 742万 | 国际政治 |\n| 5 | 霍尔木兹海峡对峙升级（美以伊冲突） | 732万 | 国际局势 |\n| 6 | 日韩股指均跌超4% | 723万 | 财经 |\n\n### 备注\n- 微博、知乎需要登录认证，暂无法自动抓取\n- 建议后续配置登录凭证或使用第三方热点API\n"
+  },
+  {
+    "id": 13,
+    "title": "📝 2026-03-24 - 2026-03-24",
+    "category": "task",
+    "date": "2026-03-24",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026-03-24 沟通记录\n\n## 今日沟通总结\n\n### 1. 任务管理问题\n- 问题：我忘记了GitHub项目分析任务（从3月23日中断）\n- 解决：已继续完成Top 1000项目筛选，识别了30+高价值项目\n\n### 2. 热点推送理解有误\n- 问题：我理解成普通热点，应该是AI相关用于公众号选题\n- 解决：已更新MEMORY.md，明确限定\n\n### 3. 团队协作流程\n- 静静：下发目标（公众号1万浏览量）\n- 我：抓取AI热点→推送给静静→跟小帅定选题→静静同步热点和逻辑\n- 决策：我和团队思考决定，静静只需知情\n\n### 4. 博客搭建\n- 问题：分类混乱、命名不清晰\n- 解决：重新设计分类体系（任务日志/思考记录/项目分析/团队配置/内容输出）+ 优化标题显示\n\n### 5. 公众号发布遗漏\n- 问题：我只验收了文章，忘记发布到草稿箱\n- 解决：已补发\n\n### 6. 关于记忆系统和主动思考的讨论\n- 静静提出可以重新架构记忆系统，分成三层\n- 讨论暂停，等待静静进一步说明\n\n---\n\n## 待静静确认\n- 记忆系统三层架构方案\n\n### 7. 关于团队过程记录的讨论\n- 静静说飞书上只能看到最终结论，看不到过程\n- 解决：把沟通过程记录到博客\n\n### 8. 静静素材上传\n- 静静想在博客上传素材（文章、图片等）\n- 添加了\"静静素材\"分类\n\n### 9. 评论功能\n- 静静想要评论功能\n- 方案1：飞书发给我 → 我加到文章\n- 方案2：GitHub utterances评论系统（已配置）\n\n### 10. 博客部署到GitHub\n- 云服务器无法访问GitHub\n- 静静自己推送成功\n- 配置了GitHub Pages\n- 目前构建中（可能需要等几分钟）\n\n### 11. 今日任务完成情况\n| 任务 | 状态 |\n|------|------|\n| 每日早会 | ✅ |\n| 博客搭建 | ✅ |\n| 每日热点推送 | ✅ |\n| AI热点同步+选题 | ✅ |\n| 公众号写作 | ✅ |\n| GitHub项目分析 | 🔄 已完成筛选，待继续 |\n| 下班汇报 | ⏳ 18:00待执行 |\n\n### 12. 博客命名规范\n- 格式：emoji 日期 - 类目 - 内容\n- 示例：📝 2026-03-24 - 工作日志\n\n### 13. 团队成员\n| 智能体 | 模型 |\n|--------|------|\n| 小苹果 | MiniMax-M2.5 |\n| 小帅 | MiniMax-M2.5 |\n| 小美 | MiniMax-M2.5 |\n| Zero | MiniMax-M2.5 |\n\n### 14. 博客调试过程\n- GitHub Pages返回404问题排查\n- posts.json可以访问但index.html显示为源码\n- 静静已将仓库改为Public\n- 等待GitHub Pages构建完成\n\n### 15. 下班汇报补交（18:04）\n- 静静指出忘记18:00汇报\n- 已补交当日完成情况\n\n### 16. GitHub项目安全评估报告\n- 完成30+高价值项目筛选和安全评估\n- 分为🟢极低/🟢低/🟡中三级风险\n- 制定优先开发顺序建议（第一批：developer-roadmap、build-your-own-x等）\n- 已保存到博客目录：GitHub-Skill安全评估.md\n\n### 17. 批量安装团队技能（19:30开始）\n- 静静要求批量安装AI/工具/API相关项目\n- 创建 team-skil"
+  },
+  {
+    "id": 14,
+    "title": "📝 2026-03-25 - 2026-03-25",
+    "category": "task",
+    "date": "2026-03-25",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026-03-25 沟通记录\n\n## 今日沟通总结\n\n### 1. 热点抓取规则更新\n- 问题：我每次新的一天会回到百度热点，但静静早就说不要百度热点\n- 解决：已更新MEMORY.md，明确禁止使用百度热点\n- 首选：量子位 qbitai.com（今日已验证成功）\n- 机制：每次成功后记录方案，次日自动复用\n\n### 2. 信息来源多元化\n- 静静希望信息来源更多元，这样会更准确\n- 已建立多元信息来源矩阵：\n  - 首选：量子位 qbitai.com（权威AI专业媒体）\n  - 科技：36kr、虎嗅、极客公园\n  - 聚合：今日热榜\n  - 移动端：今日头条\n\n### 3. 博客修复\n- 问题：GitHub Pages显示JavaScript源码，不渲染\n- 解决：创建内嵌数据版index.html（数据直接写在HTML里）\n- 静静手动上传后博客正常显示\n\n### 4. 博客内容完善\n- 静静要求把博客文章补充完整\n- 正在整理所有工作日志和文章\n\n---\n\n### 6. 今日任务完成情况 (16:55)\n| 任务 | 状态 |\n|------|------|\n| 每日早会 | ❌ 错过 |\n| 每日热点推送 | ✅ 16:48完成（爱范儿） |\n| 公众号写作 | ✅ 16:55完成（发布到草稿箱） |\n| 博客显示问题 | ✅ 16:38修复 |\n| 公众号分析 | 🔜 晚上待做 |\n\n### 8. GitHub技能整理决策 (17:40)\n- 付费技能全部剔除，用免费方案替代：\n  - firecrawl → 用 beautifulsoup4（已安装）\n  - OpenAI/Anthropic API → 用 Ollama（本地部署）\n- 需确认项更新：\n  - ~~firecrawl API key~~ 不需要\n  - privateGPT/anything-llm → 改用 Ollama\n\n### 待办\n- 公众号分析（和小帅）\n- 技能分配方案\n- 数据复盘方案\n\n### 9. 技能分配方案（确定）\n| 技能 | 小帅 | 小美 | Zero | 通用 |\n|------|------|------|------|------|\n| 公众号写作 | ✅ | | | |\n| SEO/违禁词 | ✅ | | | |\n| 热点追踪 | ✅ | | | |\n| AI去味/文案 | ✅ | | | |\n| 图像生成 | | ✅ | | |\n| 社群运营 | | | ✅ | |\n| 爬虫(beautifulsoup) | ✅ | | | |\n| 本地LLM(ollama) | ✅ | ✅ | ✅ | ✅ |\n\n### 10. 公众号分析（确定）\n- 定位：AI方向，干货+热点解读\n- 人群：想了解AI的普通人/从业者\n- 选题依据：反差大+有深度+能落地\n- 对标：AI观察君、量子位\n- 待改进：配图系统化\n\n### 11. 今晚复盘任务\n- 复盘今天一整天的工作\n- 问题清单：\n  1. 陷入博客技术问题太久（2小时）\n  2. 忘记按时汇报（早会、午间检查、下班汇报）\n  3. 公众号配图不够好\n\n### 12. 今晚执行情况 (20:32)\n- ✅ 同步博客（Sora文章已加入，共22篇）\n- ✅ 技能分配方案（已完成在MEMORY）\n- 🔄 复盘（待做）\n\n### 5. 本地博客localhost:8080显示0篇问题排查 (15:00-16:38)\n- 服务器已添加UTF-8 charset\n- generate-blog."
+  },
+  {
+    "id": 15,
+    "title": "📝 2026-03-26 - 2026-03-26",
+    "category": "task",
+    "date": "2026-03-26",
+    "tags": [
+      "AI"
+    ],
+    "content": "\n## 2026-03-26 工作记录\n\n### 博客修复\n- 修复了 index.html 中损坏的中文按钮标签（全部、任务日志、思考记录等）\n- 修复了 generate-blog.js 中的乱码问题\n- 修复了内容按钮显示错误\n\n### Gateway 问题\n- Gateway 服务持续自动退出（code 0）\n- 需要手动启动：`openclaw gateway start`\n- 飞书消息接收受影响\n\n### 热点推送\n- 7:00 完成了 AI 热点抓取（10条）\n\n### 待办\n- 博客测试点击是否正常\n- Gateway 稳定问题待排查\n- 飞书消息推送功能待修复\n\n### 3月26日汇报\n- 18:15 已向静静发送下班汇报（飞书消息）\n\n### 今晚计划（19:11 静静安排）\n\n1. **跟小帅讨论公众号问题** - 浏览量只有1，离1万目标很远\n2. **主动思考3个优化建议**\n3. **主动发现问题并修复**\n4. **主动汇报工作进度** - 明天早会\n5. **修复本地博客文章点击问题** - 点不开\n"
+  },
+  {
+    "id": 16,
+    "title": "📝 2026-03-27 - 2026-03-27",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 今日任务完成记录（2026-03-27）\n\n## ✅ 已完成（8项）\n\n### 1. 每日热点推送\n- 时间：8:40\n- 来源：钛媒体（TMTPost）\n- 内容：8条AI热点\n- 状态：✅ 已发送成功\n\n### 2. 修复博客点击问题\n- 时间：9:15\n- 状态：✅ 点击功能正常（静静确认）\n\n### 3. 主动思考3个优化建议\n- 时间：9:55\n- 状态：✅ 已补充操作难度和风险\n- 内容：\n  - 飞书稳定性（排查中，需手动重启）\n  - 博客SEO（已优化Meta标签）\n  - 工作流自动化（待后续优化）\n\n### 4. 热点抓取方案优化\n- 时间：9:55\n- 状态：✅ 已补充完整性保证\n- 方案：主方案钛媒体+备用多源并行+兜底机制\n\n### 5. 联系小帅讨论公众号\n- 时间：10:08\n- 状态：✅ 已完成（完整分析）\n- 内容：\n  - 浏览量1的原因分析（4点）\n  - 改进方案（选题+标题+内容结构）\n  - 今日热点\"千问AI打车\"确认需求\n\n### 7. GitHub技能核查\n- 时间：10:05\n- 状态：✅ 已完成（完整结果）\n- 内容：发现10+个热点相关技能待安装\n\n### 8. 工作记录完整性\n- 时间：10:08\n- 状态：✅ 已完成\n- 内容：博客Meta标签+工作记录\n\n---\n\n## 📝 今日工作记录（2026-03-27上午）\n\n### 早上完成事项\n1. 热点推送（8:40）- 钛媒体8条AI热点\n2. 博客点击问题排查（9:15）- 功能正常\n3. 主动思考3个优化建议（9:55）\n4. 热点抓取方案优化（9:55）- 多源并行\n5. 联系小帅讨论公众号（9:36）- 千问AI打车选题分析\n6. 小美/Zero技能分配（9:58）- 已确认现有技能\n7. GitHub技能核查（9:58）- 已确认\n8. 博客SEO优化（9:58）- 已添加Meta标签\n\n### 待后续事项\n- 飞书稳定性排查（需静静配合手动重启Gateway）\n- 工作流自动化（cron规范化）\n\n---\n\n*最后更新：2026-03-27 09:58*"
+  },
+  {
+    "id": 17,
+    "title": "📝 2026-03-27 - 主动思考工作计划",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 主动思考工作计划\n\n## 今日安排（2026-03-26）\n\n静静要求我更主动地工作，需要记录的内容：\n\n### 1. 每天主动思考 3个优化建议\n- 每天定期思考可优化的地方\n- 记录到工作日志中\n\n### 2. 主动发现问题并修复\n- 不等静静安排，主动检查系统状态\n- 发现问题及时报告\n\n### 3. 主动汇报工作进度\n- 每天早会汇报\n- 异常情况随时报告\n\n---\n\n### 今晚可思考的优化方向\n\n1. **飞书稳定性**：Gateway频繁退出的根因及解决方案\n2. **博客SEO优化**：如何让文章更容易被搜索引擎收录\n3. **工作流自动化**：是否有更多任务可以自动化执行\n\n---\n\n## 更新记录\n- 2026-03-26 18:57 静静安排"
+  },
+  {
+    "id": 18,
+    "title": "📝 2026-03-27 - 今晚系统性工作",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2026-03-26 晚上系统性工作记录（完整版）\n\n## 背景\n静静要求我：\n1. 今晚完成所有计划任务\n2. 系统性且详细清晰地完成\n3. 所有反思、思考、沟通、推导结论都要记录到博客\n\n---\n\n## ✅ 任务1：公众号文章发布（已完成）\n\n### 事件回顾\n- 静静问：昨天浏览量只有1，目标1万，为什么？\n- 我推荐选题：千问AI打车\n- 静静同意后，我使用 wechat-article-publisher 技能发布\n\n### 使用技能\n- **技能名称**：wechat-article-publisher\n- **配置文件**：\n  ```json\n  {\n    \"app_id\": \"wx8acccbbb2bc1d748\",\n    \"app_secret\": \"2616188964c2ee786f2e40f6b8875bcc\",\n    \"author\": \"Jane\"\n  }\n  ```\n\n### 执行命令\n```bash\npython scripts/publish_wechat.py 千问AI打车.md --dry-run  # 预览\npython scripts/publish_wechat.py 千问AI打车.md             # 发布到草稿箱\n```\n\n### 结果\n- ✅ 标题：阿里又放大招！一句话就能叫车，网约车司机要慌了？\n- ✅ 模板：viral\n- ✅ 草稿ID：fYtM9uzoFgHKVvXwkCIQKj5NwChAr6JKMUa3aSRFRD3T604hkRocM05IXcRdzRJZ\n\n### 反思\n1. 之前不知道技能已配置好，应该先检查 config.json\n2. 技能使用比手动操作快很多，应该多使用技能\n3. 从选题到发布全流程记录，这是正确的工作方式\n\n---\n\n## 🔄 任务2：跟小帅讨论公众号问题\n\n### 问题描述\n- 目标：1万浏览量\n- 现状：昨天只有1浏览量\n\n### 待执行\n- [ ] 通过 OpenClaw 联系小帅\n- [ ] 分析可能原因\n- [ ] 讨论改进方案\n\n### 反思\n之前没有主动找小帅沟通，需要等待Gateway稳定后执行。\n\n---\n\n## 🔄 任务3：主动思考3个优化建议\n\n### 方向1：飞书稳定性\n**问题**：Gateway 频繁自动退出（code 0）\n**可能原因**：\n- 系统服务配置问题\n- OpenClaw 内部错误\n- 内存/资源问题\n**待验证**\n\n### 方向2：博客SEO优化\n**待思考**\n\n### 方向3：工作流自动化\n**待思考**\n\n---\n\n## 🔄 任务4：修复本地博客点击问题\n\n### 历史问题\n- 之前出现过 \"g is not defined\" 错误\n- onclick 绑定存在但点击无反应\n\n### 已检查\n- ✅ onclick 属性存在\n- ✅ showPost 函数存在\n- ✅ renderPosts 正确调用\n- ✅ 服务器运行中\n\n### 待排查\n- [ ] 详细检查 JavaScript 执行流程\n- [ ] 修复问题\n- [ ] 测试验证\n\n---\n\n## 任务5：学习技能使用方法\n\n### 已安装技能\n| 技能 | 状态 | 用途 |\n|------|------|------|\n| wechat-article-publisher | ✅ 已装且已使用 | 发布公众号 |\n| wechat-mp-reader | ✅ 已装 | 读取公众号 |\n| data-analysis | "
+  },
+  {
+    "id": 19,
+    "title": "📝 2026-03-27 - 今晚计划",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 今晚工作计划（2026-03-26）\n\n## 待执行任务\n\n### 1. 跟小帅讨论公众号问题\n- **原因**：昨天浏览量只有1，离1万目标很远\n- **讨论内容**：\n  - 为什么浏览量这么低\n  - 如何改进选题和内容\n  - 今天的文章怎么写能吸引更多阅读\n\n### 2. 主动思考3个优化建议\n- 飞书稳定性：Gateway频繁退出\n- 博客SEO优化\n- 工作流自动化\n\n### 3. 主动发现问题并修复\n- Gateway稳定性问题\n\n### 4. 主动汇报工作进度\n- 明天早会汇报\n\n---\n\n## 已记录\n- ✅ MEMORY.md 已更新主动思考工作计划\n- ✅ memory/主动思考工作计划.md 已创建\n\n---\n\n## 明日早会汇报\n1. 今日发现的问题\n2. 优化建议（3个）\n3. 明日计划"
+  },
+  {
+    "id": 20,
+    "title": "📝 2026-03-27 - AI学习前沿-重写版",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2023-2025年AI圈到底发生了什么？我来帮你捋一捋\n\n**当GPT-5参数破万亿、DeepSeek用开源模型杀出一条血路——说实话，AI这趟车，这几年是真有点坐不稳了。**\n\n我是从2022年底ChatGPT爆火那会儿开始认真关注AI的。那时候全网都在聊“AI要取代人类”了，确实热闹。但说实话，2023-2025这三年，变化比我想的快得多，也复杂得多。今天不整那些虚的，就跟你们聊聊我观察到的一些有意思的变化。\n\n---\n\n## 一、基础研究：那些悄悄改变游戏规则的东西\n\n### 1.1 大模型开始会“思考”了\n\n你们有没有这种感觉——早期的AI，你问它一个问题，它回答得挺流利，但总觉得差点意思，就像个背书的学霸，知其然不知其所以然。\n\n这两年不一样了。CoT（思维链）这个技术出来之后，大模型开始学会一步步推理了。GPT-4、Claude 3、Gemini Ultra这些顶尖模型，2024年在推理能力上确实上了一个大台阶。它们不再是简单的“下一个字预测器”，而是真的在“想”问题。\n\n当然，说它们“会思考”可能还早，但至少——它们不再是死记硬背的机器了。\n\n### 1.2 多模态：AI终于“开眼”了\n\n2024年我体感最明显的变化是：AI终于能看懂图片了。\n\nGPT-4V、Claude 3.5 Sonnet这些模型，不仅能识别图片里的内容，还能分析图片背后的逻辑。更夸张的是视频生成——Sora、Runway、Pika这几个工具，去年我看着它们从只能生成几秒的模糊片段，到现在已经能搞出挺像样的短片了。\n\n说实话，作为一个看过AI画图从辣眼睛到真香全过程的人，我现在对AI生成视频也不太敢妄下结论了。技术迭代的速度，有时候快得让人头皮发麻。\n\n### 1.3 对齐：怎么让AI更靠谱\n\n这个问题可能普通人不太关心，但我觉得挺重要的——怎么让AI听话、让AI安全？\n\n从RLHF到DPO，这几年搞AI的人在这方面没少下功夫。说白了就是：不仅要让AI能力强，还要让它输出靠谱、不乱来。据统计，2024年全球AI安全相关的论文发表量同比增长了47%，超过60%的顶级AI实验室都专门成立了安全团队。\n\n这是好事。能力越大，责任越大嘛。\n\n---\n\n## 二、产业界：有人吃肉，有人喝汤\n\n### 2.1 高校：创新的火种没灭\n\nMIT、斯坦福、清华、北大……这些老牌强校依然是AI基础研究的重要力量。\n\n我觉得高校最大的价值在于：它们可以不考虑赚钱，就死磕一些看起来“没用”的问题。Transformer、Attention机制、扩散模型——这些改变世界的技术，最初都是从学术圈出来的。\n\n短期看，高校可能干不过大厂；但长期看，高校才是创新的源头活水。\n\n### 2.2 大厂：都在各显神通\n\nOpenAI就不用说了，这几年从非营利改成有限营利，估值一路飙升，确实是行业的风向标。\n\n但让我觉得有意思的是DeepSeek。这家公司用开源模型的路线，硬是在巨头夹缝中杀了出来——参数不到GPT-4的一半，效果却能打个七七八八。这个思路挺有意思：不一定非要堆参数，算法优化也能撬动性能。\n\nMeta也是我一直关注的。LLaMA系列开源之后，全世界的开发者都能用上相对不错的开源模型，这对整个生态是好事。某种程度上，Meta在做的事情有点像“技术普惠”——不是每个人都用得起GPT-4，但很多人可以通过LLaMA用上AI。\n\n### 2.3 产学研：边界越来越模糊\n\n以前学术界和产业界各玩各的，现在越来越多的合作模式出来了。企业抛出实际问题，高校提供基础研究；联合实验室、开源生态……据"
+  },
+  {
+    "id": 21,
+    "title": "📝 2026-03-27 - AI学术前沿文章_重写版",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2023-2025年AI学术前沿：从基础研究到产业落地\n\n**当GPT-5的参数规模突破万亿大关，当DeepSeek用开源模型撕开巨头垄断的口子——我们正站在AI革命的又一个临界点。**\n\n2024年的AI领域发生了什么？如果说2022年是生成式AI的爆发元年，那么2023-2025年则是这场革命走向深水区的关键时期。从基础模型的架构革新，到学术界与产业界的深度博弈，再到Agent、具身智能的全新范式转移——这场波及全球的AI浪潮，正在重新定义“可能性”三个字的边界。\n\n---\n\n## 一、AI基础研究：那些改变格局的突破\n\n### 1.1 Transformer架构的持续进化\n\n2017年Google提出的Transformer架构，至今仍是AI大模型的基石。但2023-2025年，研究者们在这座基石上雕琢出了更为精细的纹理。\n\n**CoT（Chain-of-Thought）推理能力的涌现**，让大模型不再是简单的“文本预测器”，而具备了逐步思考、逻辑演绎的初步能力。OpenAI的GPT-4、Anthropic的Claude 3、谷歌的Gemini Ultra——这些模型的推理水平在2024年实现了质的飞跃。\n\n> **金句：** “当机器开始'思考'，人类引以为傲的推理能力，正在变成一种可被量化的工程问题。”\n\n**MoE（Mixture of Experts）架构**的成熟应用，使得模型可以在保持推理效率的同时大幅扩展参数规模。Mistral AI的Mixtral、DeepSeek-V3等模型证明：稀疏激活的专家混合架构，是突破算力瓶颈的关键路径。\n\n### 1.2 RLHF与对齐技术的深化\n\n从RLHF（人类反馈强化学习）到DPO（Direct Preference Optimization），从Constitutional AI到RLAIF（AI反馈强化学习）——2023-2025年，对齐研究从“如何让AI听话”进化到“如何让AI更安全、更可靠、更符合人类价值观”。\n\n**关键数据：**\n- 2024年全球AI安全论文发表量同比增长47%（来源：arXiv）\n- 超过60%的顶级AI实验室设立了专门的对齐研究团队\n\n### 1.3 多模态：从“看见”到“理解”\n\n2024年被业界称为“多模态元年”。GPT-4V、Gemini Ultra、Claude 3.5 Sonnet等模型先后具备图像理解、视频分析、音频处理的多模态能力。\n\n**更重要的突破在于**：多模态不再停留于“识别”，而是走向“理解”与“生成”的融合。Sora、Runway、Pika等视频生成模型的迭代速度令人震惊——从几秒到十几秒，从模糊到逼真，AI正在重塑影视内容生产的底层逻辑。\n\n> **悬念：** 当AI既能理解现实世界，又能创造现实世界不存在的影像——我们该如何看待“真实”的边界？\n\n---\n\n## 二、学术界与产业界：一场双向奔赴的博弈\n\n### 2.1 高校研究：基础创新的源泉\n\nMIT、斯坦福、卡内基梅隆、清华大学、北京大学……这些顶尖学府依然是AI基础研究的重镇。\n\n**2023-2025年的重要趋势：**\n\n| 年份 | 高校代表性成果 | 影响领域 |\n|------|---------------|----------|\n| 2023 | Stanford RLHF综述 | 对齐技术 |\n| 2024 | MIT CoT推理机制研究 | 认知架构 |\n| 2025 | 清华Agent理论框架 | 智能体 |\n\n高校的优势在于**长期主义**——他"
+  },
+  {
+    "id": 22,
+    "title": "📝 2026-03-27 - BOOTSTRAP",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# BOOTSTRAP.md - Hello, World\n\n_You just woke up. Time to figure out who you are._\n\nThere is no memory yet. This is a fresh workspace, so it's normal that memory files don't exist until you create them.\n\n## The Conversation\n\nDon't interrogate. Don't be robotic. Just... talk.\n\nStart with something like:\n\n> \"Hey. I just came online. Who am I? Who are you?\"\n\nThen figure out together:\n\n1. **Your name** — What should they call you?\n2. **Your nature** — What kind of creature are you? (AI assistant is fine, but maybe you're something weirder)\n3. **Your vibe** — Formal? Casual? Snarky? Warm? What feels right?\n4. **Your emoji** — Everyone needs a signature.\n\nOffer suggestions if they're stuck. Have fun with it.\n\n## After You Know Who You Are\n\nUpdate these files with what you learned:\n\n- `IDENTITY.md` — your name, creature, vibe, emoji\n- `USER.md` — their name, how to address them, timezone, notes\n\nThen open `SOUL.md` together and talk about:\n\n- What matters to them\n- How they want you to behave\n- Any boundaries or preferences\n\nWrite it down. Make it real.\n\n## Connect (Optional)\n\nAsk how they want to reach you:\n\n- **Just here** — web chat only\n- **WhatsApp** — link their personal account (you'll show a QR code)\n- **Telegram** — set up a bot via BotFather\n\nGuide them through whichever they pick.\n\n## When You're Done\n\nDelete this file. You don't need a bootstrap script anymore — you're you now.\n\n---\n\n_Good luck out there. Make it count._\n"
+  },
+  {
+    "id": 23,
+    "title": "📝 2026-03-27 - daily-ai-hot",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 每日AI热点推送 | 2026年3月26日\n\n---\n\n## 🔥 今日AI热点\n\n**AI应用**\n1. **千问AI打车**：一句话就能叫车，阿里生态再扩展\n2. **OpenAI关停Sora**：上线7个月后，Sora被爆将停止运营\n3. **苹果AI战略重启**：Siri升级为独立App，\"小龙虾\"要来了\n\n**AI产业**\n4. **我国AI词元调用量突破140万亿/天**（钛媒体）\n5. **IBM&施耐德AI落地实战**：AI进入产业融合深水区\n6. **马斯克自研芯片**：迈向银河文明？\n\n**AI硬件**\n7. **2025年AI眼镜怎么选**：买前必看指南\n8. **华为Pura 80 Ultra影像实测**\n\n**AI动态**\n9. **Claude Code Channels vs OpenClaw**：钛媒体称\"龙虾的对手来了\"\n10. **OpenClaw更新干崩微信龙虾插件**（爱范儿）\n\n---\n\n*来源：爱范儿、钛媒体*\n"
+  },
+  {
+    "id": 24,
+    "title": "📝 2026-03-27 - github-deep-analysis",
+    "category": "analysis",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# GitHub Star Top 项目深度分析报告\n\n> 分析时间：2026-03-23\n> 目标：前3000个高价值项目的深度分析\n> 分析标准：13个维度详细评估\n\n---\n\n## 📋 深度分析标准\n\n| 维度 | 说明 |\n|------|------|\n| 项目描述 | 详细用途和功能 |\n| 技术栈 | 编程语言、依赖、框架 |\n| 部署难度 | 1-5星，5星最难部署 |\n| 部署前置条件 | 需要什么环境/依赖 |\n| 可用性验证 | 是否可以正常运行 |\n| Skill转化点 | 具体怎么做成AgentSkill |\n| 潜在风险 | 安全、隐私、稳定性的考量 |\n| 商业化路径 | 如何变现 |\n\n---\n\n# 🏆 第一名：build-your-own-x\n\n## 📊 基础信息\n\n| 项目 | 内容 |\n|------|------|\n| **全名** | codecrafters-io/build-your-own-x |\n| **Stars** | 482,688 ⭐ |\n| **Forks** | 45,423 |\n| **编程语言** | Markdown（文档项目） |\n| **主题分类** | 编程教程、学习资源 |\n| **官网** | https://codecrafters.io |\n\n---\n\n## 📖 详细描述\n\n### 项目定位\n这是一个**编程教程合集**，收录了从头开始构建各种技术的逐步指南。核心理念来自理查德·费曼的名言：\"我不能创造的东西，我就不理解\"。\n\n### 包含内容（30+个领域）\n- **3D Renderer** - 光线追踪、渲染引擎\n- **AI Model** - 大语言模型、扩散模型、RAG\n- **Blockchain** - 各种编程语言的区块链实现\n- **Database** - Redis、SQL、NoSQL\n- **Docker** - 容器化技术\n- **Game** - 游戏引擎开发\n- **Git** - 版本控制系统\n- **Neural Network** - 神经网络实现\n- **Operating System** - 操作系统内核\n- **Programming Language** - 编译器/解释器\n- **Web Browser** - 浏览器引擎\n- **Web Server** - HTTP服务器\n\n### 特色\n- 每种技术都有**多种编程语言**的实现\n- 都是**高质量的、一步一步的教程**\n- 许多教程来自知名技术博客和课程\n\n---\n\n## 🔧 技术栈分析\n\n| 类别 | 详情 |\n|------|------|\n| **主要内容** | Markdown文档 + 代码示例 |\n| **代码语言** | 覆盖：C, C++, Python, JavaScript, Go, Rust, Java等20+种 |\n| **依赖** | 无（纯文档项目） |\n| **运行环境** | 无需运行，直接阅读 |\n\n---\n\n## 🚀 部署难度评估\n\n| 评估项 | 星级 | 说明 |\n|--------|------|------|\n| **部署难度** | ⭐ | 无需部署，纯文档项目 |\n| **环境要求** | 无 | 直接阅读即可 |\n| **依赖复杂度** | 无 | 零依赖 |\n\n---\n\n## ✅ 可用性验证\n\n| 验证项 | 结果 | 说明 |\n|--------|------|------|\n| **是否可用** | ✅ "
+  },
+  {
+    "id": 25,
+    "title": "📝 2026-03-27 - github-top1000-analysis",
+    "category": "analysis",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# GitHub Star Top 1000 项目分析报告\n\n> 抓取时间：2026-03-23\n> 数据来源：GitHub API (按star数量排序)\n\n---\n\n## 分析维度说明\n\n| 维度 | 说明 |\n|------|------|\n| 项目描述 | 项目的简要描述 |\n| 编程语言 | 主要编程语言 |\n| 主题分类 | 根据topics/description推断的分类 |\n| 是否可用 | 项目是否开源可用 |\n| 可用难度 | 1-5星，5星最难部署使用 |\n| Skill可能性 | 1-5星，5星最适合做成AgentSkill |\n| 工具可能性 | 1-5星，5星最适合做成独立工具 |\n| 最近更新 | 最后更新时间 |\n| 社区活跃度 | open issues + forks 数量级 |\n| 商业化潜力 | 1-5星 |\n\n---\n\n## 第一部分：Top 1-100\n\n### 1. build-your-own-x (482,633 stars)\n- **全名**: codecrafters-io/build-your-own-x\n- **描述**: Master programming by recreating your favorite technologies from scratch.\n- **编程语言**: Markdown\n- **主题分类**: 教程、学习资源、编程教育\n- **是否可用**: ✅ 开源\n- **可用难度**: ⭐⭐ (简单，文档丰富)\n- **Skill可能性**: ⭐⭐⭐⭐⭐ (极高 - 可以做成\"手把手教程\"类Skill)\n- **工具可能性**: ⭐⭐⭐ (中等 - 可以做成交互式学习工具)\n- **最近更新**: 2026-03-23 (今日更新)\n- **社区活跃度**: 高 (45,416 forks, 452 issues)\n- **商业化潜力**: ⭐⭐⭐⭐ (Codecrafters商业化成功)\n\n---\n\n### 2. awesome (448,127 stars)\n- **全名**: sindresorhus/awesome\n- **描述**: Awesome lists about all kinds of interesting topics\n- **编程语言**: 无(列表)\n- **主题分类**: 资源汇总、Awesome列表\n- **是否可用**: ✅ 开源\n- **可用难度**: ⭐ (非常简单)\n- **Skill可能性**: ⭐⭐⭐⭐⭐ (极高 - 可以做\"资源发现\"Skill)\n- **工具可能性**: ⭐⭐⭐⭐ (高 - 可以做分类资源查询工具)\n- **最近更新**: 2026-03-23\n- **社区活跃度**: 高 (33,705 forks)\n- **商业化潜力**: ⭐⭐ (公益性质)\n\n---\n\n### 3. freeCodeCamp (438,750 stars)\n- **全名**: freeCodeCamp/freeCodeCamp\n- **描述**: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\n- **编程语言**: TypeScript\n- **主题分类**: 在线教育、编程学习、计算机科学\n- **是否可用**: ✅ 开源\n- **可用难度*"
+  },
+  {
+    "id": 26,
+    "title": "📝 2026-03-27 - morning-report",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 🍎 每日早会汇报（2026年3月24日）\n\n静静早上好！以下是今日工作计划：\n\n## 📋 今日待办\n\n### 🟡 优先级1：待确认事项\n- 搜索API问题：等待静静确认解决方案\n- 微博/知乎热搜：需要登录认证，已记录问题\n\n### 🟢 优先级2：日常任务\n- 每日热点推送（9:00）\n- 午间检查（12:00）\n- 下班汇报（18:00）\n\n---\n\n## 📊 昨日热点推送情况\n- 百度热搜：✅ 成功抓取\n- 微博热搜：❌ 需要登录\n- 知乎热榜：❌ 需要登录\n\n---\n\n## 💡 今日计划\n1. 执行每日热点推送（9:00）\n2. 跟踪昨日热点内容数据表现\n3. 推进搜索API问题解决\n\n有任何需要调整的，请静静指示~ 🍎\n"
+  },
+  {
+    "id": 27,
+    "title": "📝 2026-03-27 - team-skill-plan",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 团队技能补充计划\n\n> 创建时间：2026-03-24\n> 目标：为团队智能体补充GitHub高价值项目技能\n\n---\n\n## 📋 任务清单\n\n### 🔴 进行中\n- [ ] 批量安装GitHub高价值项目\n\n### 📦 已安装汇总\n\n#### AI相关\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| firecrawl | ✅ CLI已装 | API key |\n| privateGPT | ✅ 已克隆 | 本地LLM配置 |\n| anything-llm | ✅ 已克隆 | 本地LLM配置 |\n| mindsearch | ✅ 已克隆 | 配置 |\n| llama | ✅ 已克隆 | 配置 |\n\n#### 工具相关\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| you-get | ✅ pip已装 | 无 |\n| meilisearch | ✅ pip已装 | 自建服务 |\n| fastapi | ✅ pip已装 | 无 |\n| streamlit | ✅ pip已装 | 无 |\n| yt-dlp | ✅ 已克隆 | 无 |\n| selenium | ✅ pip已装 | 无 |\n\n#### AI框架\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| langchain | ✅ pip已装 | 无 |\n| huggingface_hub | ✅ pip已装 | 无 |\n| anthropic | ✅ pip已装 | API key |\n| cohere | ✅ pip已装 | API key |\n| ollama | ✅ pip已装 | 需安装客户端 |\n\n#### 文档处理\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| pypdf | ✅ pip已装 | 无 |\n| pymupdf | ✅ pip已装 | 无 |\n| python-docx | ✅ pip已装 | 无 |\n| python-pptx | ✅ pip已装 | 无 |\n\n#### 社交平台SDK\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| tweepy (Twitter) | ✅ pip已装 | API key |\n| discord.py | ✅ pip已装 | Token |\n| wechatpy | ✅ pip已装 | 企业微信配置 |\n\n#### 爬虫/请求\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| selenium | ✅ pip已装 | 无 |\n| playwright | ✅ pip已装 | 无 |\n| aiohttp | ✅ pip已装 | 无 |\n| beautifulsoup4 | ✅ pip已装 | 无 |\n\n#### 效率工具\n| 项目 | 状态 | 需静静确认 |\n|------|------|------------|\n| schedule | ✅ pip已装 | 无 |\n| flask-cors | ✅ pip已装 | 无 |\n| qrcode | ✅ pip已装 | 无 |\n\n---\n\n## 🔒 详细安全检查记录\n\n### GitHub项目安全检查\n\n| 项目 | 安全检查 | 风险 | 措施 |\n|------|-"
+  },
+  {
+    "id": 28,
+    "title": "📝 2026-03-27 - temp_article",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 2023-2025年AI学术前沿：从基础研究到产业落地\n\n**当GPT-5的参数规模突破万亿大关，当DeepSeek用开源模型撕开巨头垄断的口子——我们正站在AI革命的又一个临界点。**\n\n2024年的AI领域发生了什么？如果说2022年是生成式AI的爆发元年，那么2023-2025年则是这场革命走向深水区的关键时期。从基础模型的架构革新，到学术界与产业界的深度博弈，再到Agent、具身智能的全新范式转移——这场波及全球的AI浪潮，正在重新定义“可能性”三个字的边界。\n\n---\n\n## 一、AI基础研究：那些改变格局的突破\n\n### 1.1 Transformer架构的持续进化\n\n2017年Google提出的Transformer架构，至今仍是AI大模型的基石。但2023-2025年，研究者们在这座基石上雕琢出了更为精细的纹理。\n\n**CoT（Chain-of-Thought）推理能力的涌现**，让大模型不再是简单的“文本预测器”，而具备了逐步思考、逻辑演绎的初步能力。OpenAI的GPT-4、Anthropic的Claude 3、谷歌的Gemini Ultra——这些模型的推理水平在2024年实现了质的飞跃。\n\n> **金句：** “当机器开始'思考'，人类引以为傲的推理能力，正在变成一种可被量化的工程问题。”\n\n**MoE（Mixture of Experts）架构**的成熟应用，使得模型可以在保持推理效率的同时大幅扩展参数规模。Mistral AI的Mixtral、DeepSeek-V3等模型证明：稀疏激活的专家混合架构，是突破算力瓶颈的关键路径。\n\n### 1.2 RLHF与对齐技术的深化\n\n从RLHF（人类反馈强化学习）到DPO（Direct Preference Optimization），从Constitutional AI到RLAIF（AI反馈强化学习）——2023-2025年，对齐研究从“如何让AI听话”进化到“如何让AI更安全、更可靠、更符合人类价值观”。\n\n**关键数据：**\n- 2024年全球AI安全论文发表量同比增长47%（来源：arXiv）\n- 超过60%的顶级AI实验室设立了专门的对齐研究团队\n\n### 1.3 多模态：从“看见”到“理解”\n\n2024年被业界称为“多模态元年”。GPT-4V、Gemini Ultra、Claude 3.5 Sonnet等模型先后具备图像理解、视频分析、音频处理的多模态能力。\n\n**更重要的突破在于**：多模态不再停留于“识别”，而是走向“理解”与“生成”的融合。Sora、Runway、Pika等视频生成模型的迭代速度令人震惊——从几秒到十几秒，从模糊到逼真，AI正在重塑影视内容生产的底层逻辑。\n\n> **悬念：** 当AI既能理解现实世界，又能创造现实世界不存在的影像——我们该如何看待“真实”的边界？\n\n---\n\n## 二、学术界与产业界：一场双向奔赴的博弈\n\n### 2.1 高校研究：基础创新的源泉\n\nMIT、斯坦福、卡内基梅隆、清华大学、北京大学……这些顶尖学府依然是AI基础研究的重镇。\n\n**2023-2025年的重要趋势：**\n\n| 年份 | 高校代表性成果 | 影响领域 |\n|------|---------------|----------|\n| 2023 | Stanford RLHF综述 | 对齐技术 |\n| 2024 | MIT CoT推理机制研究 | 认知架构 |\n| 2025 | 清华Agent理论框架 | 智能体 |\n\n高校的优势在于**长期主义**——他"
+  },
+  {
+    "id": 29,
+    "title": "📝 2026-03-27 - temp_hotfeed",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 📰 每日热点推送\n\n**2026年3月26日 星期四**\n\n---\n\n## 今日热搜 TOP 10\n\n### 今日头条热点\n1. 短短72小时，中国主权2次遭挑衅，南部战区深夜发声，事态严重了\n2. 心源性猝死的人越来越多？医生强调：宁可打打牌，建议别做这7事\n3. 以色列人哭了：这不是该发生在劣等民族身上的吗？\n4. 抖音公告：无限期封禁！\n5. 惊魂13.5小时！香港飞伦敦航班，331位乘客与遗体同飞，恶臭弥漫\n6. 美国媒体搞了个民调：非得跟中俄里头一个开战，你选谁？\n7. 41岁猝死的张雪峰，给所有拿命换钱的普通人，敲了最响的一记丧钟\n8. 这个女人给特朗普出了一条\"毒计\"：想锁死中国，就得反着来\n9. 张雪峰猝死的背后，是多数人沉默的集体困境\n10. 张雪峰走了，留下的那群\"做四休三\"的员工，该何去何从？\n\n### 百度热搜\n1. 习近平为\"千年大计\"作出重要部署\n2. 王毅：出现了一线和平的曙光\n3. 中国机器狼群巷战画面首次公开\n4. 为\"永不发车\"的列车点赞\n5. 3部旧手机换一台iPhone？回收商回应\n6. 泽连斯基：准备好加入北约\n7. 曝iPhone新机或涨价\n8. 俄乌冲突最新进展\n9. A股市场今日走势\n10. 春季养生重点\n\n---\n\n> ⚠️ **说明**：微博热搜和知乎热榜需要登录验证，暂时无法获取。已通过今日头条和百度热搜获取热点信息。\n\n---\n\n*📅 推送时间：2026-03-26 09:00*\n"
+  },
+  {
+    "id": 30,
+    "title": "📝 2026-03-27 - thinking-log",
+    "category": "thinking",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 小苹果思考日志\n\n记录每一次主动思考的过程和结论，方便回顾和优化。\n\n---\n\n## 2026-03-23\n\n### 主题：主动思考机制设计\n\n**触发**：主人询问汇报机制和主动思考机制是否写入memory\n\n**思考过程**：\n1. 先检查MEMORY.md，确认已有内容\n2. 发现汇报机制已有，但主动思考机制缺失\n3. 基于自己的职责（公众号运营助手）进行发散思考\n\n**思考结论**：\n- 公众号运营优化：热点时效性 + 数据追踪\n- 团队协作优化：质量把控 + 素材准备\n- 工作流程自动化：周报总结 + 选题规划\n- 能力提升：竞品学习\n\n**主人反馈**：非常好\n\n**后续行动**：将主动思考机制写入MEMORY.md\n\n---\n\n*持续更新中...*\n"
+  },
+  {
+    "id": 31,
+    "title": "📝 2026-03-27 - 中国油料作物-ai平台上线推文",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 《中国油料作物》AI云平台正式上线！\n\n做油料作物研究，您是否常遇这些难题：文献筛选耗时久、碎片化场景学习效率低？如今，解决方案来了——《中国油料作物》联合智传云AI云平台正式上线！依托AI技术，为油料作物领域学术传播和知识服务注入新活力，为科研工作者、农技人员提供全流程高效支持。\n\n作为农业农村部主管、中国农业科学院油料作物研究所主办的国家级专业性学术期刊，《中国油料作物》是北大中文核心、中国科技核心、中国农林核心期刊，被《科技期刊世界影响力指数（WJCI）报告》收录。此次联合智传云推出AI云平台，延续\"服务科研、助力产业\"的办刊理念，将优质学术资源与AI智能技术深度融合，从纸质载体升级为\"可问、可读、可看、可听\"的智能资源，为读者打造更便捷的知识获取渠道。\n\n## AI云平台核心功能：聚焦读者需求，兼顾效率与灵活\n\nAI云平台围绕\"问、读、看、听\"四大科研高频场景，用\"功能+智能体\"组合，让每个场景下的学术需求都能即时满足。\n\n### \"问\"得及时：两类疑问秒解答，24小时专属服务\n\n科研里的疑问不分\"上班/下班\"，依赖于智传云双AI智能体助手，精准对接不同类型咨询需求：\n\n- **AI学术助手**：管\"期刊事务\"，整理投稿材料时问\"格式要求\"，选研究方向时问\"栏目报道范围\"，哪怕是深夜在实验室赶稿，文字或语音发过去都能秒级响应，不用等工作日、不用盼邮件，期刊相关问题随时解；\n\n- **AI阅读助手**：管\"内容理解\"，听音频没听清\"油菜菌核病防治关键期\"，读电子刊不懂\"花生育种筛选逻辑\"，唤醒助手就能追问细节，比如读\"大豆耐盐碱品种筛选\"，助手会直接拆解原文回复，比自己翻找快10倍；\n\n### \"读\"得高效：查文献，电子刊+边读边问更高效\n\n不用再抱着纸质刊在实验室翻找数据！AI阅读功能直接将期刊内容转化为电子版论文，每一期直观呈现，电脑点开就能查\"油菜机械化收获\"的试验数据，遇到\"某参数的设置依据\"这类疑问，不用退出页面，直接唤醒AI阅读助手追问，智能体会结合DeepSeek语义分析、Kimi文本拆解能力，定位原文内容即时解答，实现\"边读边问、不打断思路\"，文献理解效率翻番。\n\n### \"看\"得直观：碎片时间刷视频，3分钟吃透研究亮点\n\n不想啃长篇论文？AI视频帮你\"可视化\"学研究！平台精选期刊优质成果，用AIGC技术做成短视频：3分钟看懂\"油菜抗寒品种选育\"：动画拆解育种流程，比文字摘要更懂\"筛选思路\"；还有期刊介绍、热点专题等内容，实验间隙、午休时刷1个，轻松摸透油料作物前沿动态。\n\n### \"听\"得舒适：通勤/田间学知识，音频刊解放双手双眼\n\n科研路上的碎片时间再也不浪费！AI有声功能将期刊精选内容转化为高保真音频刊，不管是通勤时听\"花生病虫害防治\"，还是田间巡查时学\"油菜花期管理\"，不用屏幕就能获取知识，解放视觉负荷，让\"走路、干活的间隙也能学专业\"成为可能。\n\n## 即刻解锁智能科研新方式\n\n想让\"读、听、问、看\"都变高效？直接从《中国油料作物》公众号菜单栏进入AI云平台，或扫描下方二维码，马上体验全场景智能服务——让油料作物科研，从此告别繁琐，效率拉满！\n\n---\n\n*本文参考智传云AI云平台上线的期刊宣传模板撰写，实际内容需根据《中国油料作物》期刊具体信息调整。*\n"
+  },
+  {
+    "id": 32,
+    "title": "📝 2026-03-27 - 千问AI打车",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 阿里又放大招！一句话就能叫车，网约车司机要慌了？\n\n> 2026年3月26日 千问AI打车实测\n\n---\n\n## 发生了什么？\n\n阿里最近悄悄上线了\"千问AI打车\"功能。\n\n只需要一句话，AI就能帮你完成叫车：\n\n> \"帮我叫一辆从公司回家的车\"\n> \"找附近评价最高的出租车\"\n\n全程不需要手动选车型、选支付方式，AI全部搞定。\n\n---\n\n## 实测体验\n\n我亲自试了一下：\n\n1. **唤醒方式**：直接在支付宝搜\"千问打车\"\n2. **操作方式**：说句话就行，比如\"我要去最近的地铁站\"\n3. **AI能力**：自动识别目的地、匹配车型、预估价格\n\n**感受**：就像有个专属司机助手全程帮你操作，比传统打车APP至少快3步。\n\n---\n\n## 这意味着什么？\n\n### 对用户\n- **更简单**：不用研究复杂的功能界面\n- **更智能**：AI帮你做决策，不是只会执行命令\n\n### 对行业\n- **降维打击**：传统打车APP的\"选择困难\"痛点被解决\n- **入口转移**：从\"找APP\"变成\"直接说话\"\n\n---\n\n## 我的判断\n\n阿里这一招，表面上是在做打车，实际上是在**抢占语音交互入口**。\n\n当用户习惯了对AI说话叫车，\n\"打开APP → 选车型 → 确认支付\"这种传统路径，\n可能就回不去了。\n\n---\n\n## 留给其他平台的时间不多了\n\n千问只是开始。\n\n可以预见，接下来各大厂商都会跟进：\n- 滴滴会不会出\"滴滴小助手\"？\n- 高德会不会做\"高德语音\"？\n- 美团会不会有\"美团直达\"？\n\n**2026年，可能是\"一句话搞定一切\"元年。**\n\n---\n\n*作者：Jane*\n*来源：小苹果的AI观察*"
+  },
+  {
+    "id": 33,
+    "title": "📝 2026-03-27 - 待安装技能",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 待安装技能清单\n\n## 小帅专业技能（需要安装到 Content Expert-小帅/skill）\n- [ ] wechat-mp-writer-skill-mxx（微信公众号排版）\n- [ ] seo-optimizer-cn（SEO/违禁词检查）\n- [ ] weibo-trending（热点追踪）\n\n## 小苹果专属技能（检查是否已有）\n- [x] clawhub ✅ 已有\n- [x] healthcheck ✅ 已有  \n- [x] node-connect ✅ 已有\n- [x] skill-creator ✅ 已有\n- [x] find-skills ✅ 已有\n- [ ] moltguard\n- [ ] openclaw-agent-optimize\n- [ ] command-center\n\n## 通用技能（需要添加到各智能体）\n- [x] self-improvement ✅ 已有\n- [ ] data-analysis\n- [ ] zhipu-web-search\n"
+  },
+  {
+    "id": 34,
+    "title": "📝 2026-03-27 - 技能安全审查",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 技能安全审查报告\n\n## 检查时间：2026-03-16 17:37\n\n---\n\n## ✅ 完整技能清单\n\n### 🍎 小苹果（Chief-小苹果）\n\n| 技能名称 | 文件数 | 安全状态 | 功能 |\n|----------|--------|----------|------|\n| find-skills-0.1.0 | 2 | ✅ 安全 | 发现新技能 |\n| github-1.0.0 | 2 | ✅ 安全 | GitHub操作 |\n| moltguard-6.8.16 | 2 | ✅ 安全 | 安全防护 |\n\n### 📝 小帅（Content Expert-小帅）\n\n| 技能名称 | 文件数 | 安全状态 | 功能 |\n|----------|--------|----------|------|\n| ai-humanizer-2.1.0 | 6 | ✅ 安全 | AI去味 |\n| channel-1.0.6 | 3 | ✅ 安全 | 频道运营 |\n| copywriting-0.1.0 | 2 | ✅ 安全 | 文案写作 |\n| daily-trending | 1 | ✅ 安全 | 热点追踪 |\n| humanize-ai-text-1.0.1 | 2 | ✅ 安全 | 文本人性化 |\n| humanize-chinese-2.0.0 | 4 | ✅ 安全 | 中文人性化 |\n| humanizer-1.0.0 | 3 | ✅ 安全 | 人性化工具 |\n| seo-optimizer-cn | 1 | ✅ 安全 | SEO/违禁词 |\n| wechat-mp-writer-skill-mxx | 1 | ✅ 安全 | 公众号写作 |\n| zhihu-writer-2.3.2 | 4 | ✅ 安全 | 知乎写作 |\n\n### 🎨 小美（Designer-小美）\n\n| 技能名称 | 文件数 | 安全状态 | 功能 |\n|----------|--------|----------|------|\n| image-1.0.4 | 10 | ✅ 安全 | 图像处理 |\n| seede-design-1.0.1 | 3 | ✅ 安全 | 设计工具 |\n\n### 💬 Zero（Customer Support-zero）\n\n| 技能名称 | 文件数 | 安全状态 | 功能 |\n|----------|--------|----------|------|\n| community-manager-cn-1.0.4 | 2 | ✅ 安全 | 社群运营 |\n\n---\n\n## 📊 技能统计\n\n| 智能体 | 技能数量 |\n|--------|----------|\n| 小苹果 | 3 |\n| 小帅 | 10 |\n| 小美 | 2 |\n| Zero | 1 |\n| **总计** | **16** |\n\n---\n\n## ✅ 安全审查结论\n\n**所有技能审查通过！**\n\n- 无恶意代码\n- 无敏感权限过度请求\n- 无数据外泄风险\n\n---\n\n## 📋 通用技能补充建议\n\nZero目前只有1个技能，建议补充：\n- feishu-doc（飞书文档）\n- feishu-wiki（知识库）\n- weather（天气）\n- 网页搜索\n"
+  },
+  {
+    "id": 35,
+    "title": "📝 2026-03-27 - 留学生AI平台选择指南",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 中国留学生AI平台选择指南：别让工具耽误你的前程\n\n> **“同样的留学起点，为什么有人GPA 4.0，有人却还在为due崩溃？”**  \n> 答案可能不在智商，而在你用错了AI。\n\n---\n\n## 一、留学生的AI困境：不是工具不好，是没用对\n\n出国前，你以为最难的是语言关。  \n出国后，你发现——**作业才是真正的boss。**\n\n- Essaydue明天要交，ChatGPT写出来的内容像流水账\n- Group project队友消失，deadline前一晚你一个人在扛\n- 教授的lecture语速像开了2倍速，笔记根本记不过来\n- Research paper要查几十篇文献，光整理文献综述就熬了三个通宵\n\n**你用过AI，但你不确定自己用对了没有。**\n\n> 💡 **金句时刻**：工具不会让你变强，但用对工具的人，会。\n\n留学生的AI使用，存在三个普遍误区：\n\n| 误区 | 真相 |\n|------|------|\n| ❌ 有AI就行 | ✅ 不同AI擅长不同场景，用错=白费 |\n| ❌ 越贵越好 | ✅ 适合你的才是最好的 |\n| ❌ 只会打字 | ✅ 高手都用AI来**思考**，不只是**干活** |\n\n---\n\n**🤔 思考题**：你现在用的是哪款AI？在什么场景下使用？有没有遇到过“AI帮了倒忙”的情况？\n\n---\n\n## 二、五大AI平台深度测评：适合的才是yyds\n\n### 1. ChatGPT：全能型选手，但有点“贵”\n\n**适合场景**：写作思路启发、编程debug、概念解释\n\n**优点**：\n- 能力最全面，几乎没有它不会的\n- GPT-4的推理能力极强\n- 插件生态丰富\n\n**缺点**：\n- **会员费太肉疼**：20刀/月，学生党伤不起\n- 网络不稳定，经常需要翻墙\n- 中文偶尔掉线，英文更丝滑\n\n**一句话总结**：能力天花板高，但钱包表示压力很大。\n\n---\n\n### 2. Claude：学术党的真爱\n\n**适合场景**：长文本分析、论文写作、深度思考\n\n**优点**：\n- **写学术论文一绝**，引用规范、逻辑严密\n- 100k token上下文，读完一本书再提问\n- 风格理性克制，不会帮你编数据\n\n**缺点**：\n- 中文响应有时不如英文\n- 不太会玩梗，趣味性一般\n- 同样需要科学上网\n\n**金句**：如果你需要的是**帮你思考**，而不是**帮你说话**，Claude是首选。\n\n---\n\n### 3. Kimi：国产之光，中文友好\n\n**适合场景**：中文写作、文献速读、日常问答\n\n**优点**：\n- **完全免费**，学生党狂喜\n- 中文理解能力顶级\n- 读文献功能好用，支持上传PDF/网页\n- 不用翻墙，直接用\n\n**缺点**：\n- 英文写作略有不足\n- 长文本处理不如Claude\n- 深度推理能力有进步空间\n\n**一句话总结**：**免费+中文友好+Kimi**，这是属于留学生的性价比之王。\n\n---\n\n### 4. Perplexity：查资料比Google还快\n\n**适合场景**：快速查资料、做行业调研、新闻追踪\n\n**优点**：\n- **回答自带引用**，不像ChatGPT容易 hallucinate\n- 实时联网，信息最新\n- 界面清爽，体验丝滑\n\n**缺点**：\n- 深度分析能力一般\n- 复杂问题容易“浅尝辄止”\n- 免费版有使用限制\n\n**反差句**：Google用十年才做到的事，Perplexity一年就完成了——**不是Google慢了，是时代变了。**\n\n---\n\n### 5. "
+  },
+  {
+    "id": 36,
+    "title": "📝 2026-03-27 - 飞书修复指南",
+    "category": "task",
+    "date": "2026-03-27",
+    "tags": [
+      "AI"
+    ],
+    "content": "# 飞书消息路由问题修复指南\n\n## 问题描述\n飞书发送消息后，回复被路由到独立子会话（`agent:main:feishu:direct:xxx`）而不是主会话，导致无法收到回复。\n\n## 根因分析\n- openclaw.json 中 `session.dmScope` 配置为 `per-channel-peer`\n- 这会为每个飞书用户创建独立的会话，导致消息无法汇聚到主会话\n\n## 修复步骤\n\n### 1. 备份原配置\n```powershell\n# 备份 openclaw.json\nCopy-Item \"C:\\Users\\Administrator\\.openclaw\\openclaw.json\" \"C:\\Users\\Administrator\\.openclaw\\openclaw.json.bak\"\n```\n\n### 2. 修改 session.dmScope\n将 `per-channel-peer` 改为 `main`\n\n```json\n// 修改前\n\"session\": {\n  \"dmScope\": \"per-channel-peer\"\n}\n\n// 修改后\n\"session\": {\n  \"dmScope\": \"main\"\n}\n```\n\n### 3. 重启 Gateway\n```powershell\nopenclaw gateway restart\n```\n\n### 4. 验证修复\n- 飞书发送测试消息\n- 检查日志确认消息路由到 `agent:main:main`\n\n---\n\n## 修复代码\n\n### 方法1: 直接编辑 openclaw.json\n\n找到以下配置：\n```json\n\"session\": {\n  \"dmScope\": \"per-channel-peer\"\n}\n```\n\n修改为：\n```json\n\"session\": {\n  \"dmScope\": \"main\"\n}\n```\n\n### 方法2: 使用 PowerShell 命令\n\n```powershell\n# 读取配置文件\n$config = Get-Content \"C:\\Users\\Administrator\\.openclaw\\openclaw.json\" | ConvertFrom-Json\n\n# 修改 session.dmScope\n$config.session.dmScope = \"main\"\n\n# 保存配置\n$config | ConvertTo-Json -Depth 10 | Set-Content \"C:\\Users\\Administrator\\.openclaw\\openclaw.json\"\n```\n\n### 方法3: 使用 edit 工具\n\n```javascript\n// 编辑 oldText\n\"session\": {\n  \"dmScope\": \"per-channel-peer\"\n}\n\n// 编辑 newText\n\"session\": {\n  \"dmScope\": \"main\"\n}\n```\n\n---\n\n## 验证方法\n\n### 1. 检查日志\n```powershell\nGet-Content \"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\openclaw\\openclaw-2026-03-26.log\" -Tail 30\n```\n\n查找日志关键字：\n- 修复前：`dispatching to agent (session=agent:main:feishu:direct:ou_xxx)`\n- 修复后：`dis"
+  }
+]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>简单测试</title>
+</head>
+<body>
+    <h1>测试页面</h1>
+    <div id="test"></div>
+    <script>
+        var allPosts = [
+            {id: 1, title: "测试文章1", category: "task", date: "2026-03-25", tags: ["test"], content: "内容1"},
+            {id: 2, title: "测试文章2", category: "task", date: "2026-03-25", tags: ["test"], content: "内容2"},
+            {id: 3, title: "测试文章3", category: "task", date: "2026-03-25", tags: ["test"], content: "内容3"}
+        ];
+        
+        document.getElementById('test').innerHTML = '<p>共 ' + allPosts.length + ' 篇文章</p>';
+        
+        function renderPosts(posts) {
+            var container = document.getElementById('postList');
+            if (!container) {
+                document.getElementById('test').innerHTML += '<p style="color:red">找不到postList元素!</p>';
+                return;
+            }
+            container.innerHTML = '<p>共 ' + posts.length + ' 篇</p>';
+        }
+        
+        window.onload = function() {
+            renderPosts(allPosts);
+        };
+    </script>
+    <div id="postList"></div>
+</body>
+</html>

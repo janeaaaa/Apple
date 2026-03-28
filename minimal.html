@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>最小测试</title>
+</head>
+<body>
+    <h1>最小测试 - 1篇文章</h1>
+    <div id="postList"></div>
+    <script>
+        var allPosts = [
+            {
+                id: 1,
+                title: "📝 2026-03-25 - 工作日志",
+                category: "task",
+                date: "2026-03-25",
+                tags: ["AI", "热点"],
+                content: "这是测试内容"
+            }
+        ];
+        
+        var container = document.getElementById('postList');
+        if (allPosts.length === 0) {
+            container.innerHTML = '没有文章';
+        } else {
+            container.innerHTML = '<p>共 ' + allPosts.length + ' 篇</p>' + 
+                allPosts.map(function(p) { 
+                    return '<div><b>' + p.title + '</b> - ' + p.date + '</div>'; 
+                }).join('');
+        }
+    </script>
+</body>
+</html>

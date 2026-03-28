@@ -13,6 +13,7 @@ const OUTPUT_FILE = path.join(__dirname, 'posts.json');
 const SCAN_PATHS = [
     { path: 'memory', category: 'task', tags: ['日报', '日志'] },
     { path: 'docs', category: 'article', tags: ['文档', '文章'] },
+    { path: 'blog/articles', category: 'content', tags: ['公众号', '文章'] },
 ];
 
 // 要包含的根目录文件

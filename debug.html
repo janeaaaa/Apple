@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Debug</title>
+</head>
+<body>
+    <h1>Debug Test</h1>
+    <div id="output"></div>
+    <div id="postList"></div>
+    
+    <script>
+        var allPosts = [
+            {id: 1, title: "测试1", category: "task", date: "2026-03-25", tags: ["test"], content: "内容1"},
+            {id: 2, title: "测试2", category: "task", date: "2026-03-25", tags: ["test"], content: "内容2"}
+        ];
+        
+        // Debug
+        document.getElementById('output').innerHTML = 'allPosts 长度: ' + allPosts.length;
+        
+        var container = document.getElementById('postList');
+        if (!container) {
+            document.getElementById('output').innerHTML += '<br>错误: 找不到postList!';
+        } else {
+            document.getElementById('output').innerHTML += '<br>找到postList元素';
+            container.innerHTML = '<ul>' + allPosts.map(function(p) { 
+                return '<li>' + p.id + ' - ' + p.title + '</li>'; 
+            }).join('') + '</ul>';
+        }
+    </script>
+</body>
+</html>

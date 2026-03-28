@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Test Blog</title>
+    <style>
+        .post-item { padding: 15px; border: 1px solid #ccc; margin: 10px; cursor: pointer; }
+        .post-item:hover { background: #f0f0f0; }
+    </style>
+</head>
+<body>
+    <h1>测试博客点击</h1>
+    <div id="postList"></div>
+    <script>
+        var allPosts = [
+            {id: 1, title: "测试文章1", date: "2026-03-26", content: "这是测试内容1"},
+            {id: 2, title: "测试文章2", date: "2026-03-26", content: "这是测试内容2"}
+        ];
+        
+        function renderPosts(posts) {
+            var container = document.getElementById('postList');
+            var html = '';
+            posts.forEach(function(post) {
+                html += '<div class="post-item" onclick="showPost(' + post.id + ')">' + post.title + '</div>';
+            });
+            container.innerHTML = html;
+        }
+        
+        function showPost(id) {
+            var post = allPosts.find(function(p) { return p.id === id; });
+            if (!post) {
+                alert('文章未找到: ' + id);
+                return;
+            }
+            alert('点击了: ' + post.title + '\n内容: ' + post.content);
+        }
+        
+        console.log('Script loaded, posts:', allPosts.length);
+        renderPosts(allPosts);
+    </script>
+</body>
+</html>
