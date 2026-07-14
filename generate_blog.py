@@ -70,7 +70,7 @@ def generate():
             "category": cat,
             "date": p.get("date", ""),
             "tags": tags,
-            "content": p.get("content", "")[:500]  # 限制content长度
+            "content": p.get("content", "") or ""
         }
         
         posts_js.append(f'''  {{
@@ -88,17 +88,22 @@ def generate():
     with open(INDEX_FILE, "r", encoding="utf-8", errors="replace") as f:
         html = f.read()
     
-    # 替换allPosts数组
-    new_html = re.sub(
-        r'var allPosts = \[.*?\];',
-        f'var allPosts = {allposts_str};',
-        html,
-        flags=re.DOTALL
-    )
-    
-    if new_html == html:
-        print("ERROR: allPosts pattern not found!")
+    # 替换allPosts数组 - 用位置查找而不是正则（避免content里的];干扰）
+    start_marker = 'var allPosts = ['
+    start_idx = html.index(start_marker)
+    script_end = html.find('</script>', start_idx)
+    # 找最后一个];（在</script>之前）
+    end_pos = None
+    for pos in range(script_end - 2, start_idx, -1):
+        if html[pos:pos+2] == '];':
+            end_pos = pos + 2
+            break
+    if end_pos is None:
+        print("ERROR: Could not find end of allPosts array!")
         return False
+    
+    new_html = html[:start_idx] + f'var allPosts = {allposts_str};' + html[end_pos:]
+    print(f"  Replaced allPosts at pos {start_idx}-{end_pos}, new length {len(new_html)}")
     
     # 写回
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
