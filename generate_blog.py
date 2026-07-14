@@ -88,6 +88,13 @@ def generate():
     with open(INDEX_FILE, "r", encoding="utf-8", errors="replace") as f:
         html = f.read()
     
+    # 确保迭代学习按钮存在
+    if 'data-category="learning">迭代学习</button>' not in html:
+        old_btn = '<button class="nav-btn" data-category="content">内容输出</button>'
+        new_btn = old_btn + '\n                <button class="nav-btn" data-category="learning">迭代学习</button>'
+        html = html.replace(old_btn, new_btn, 1)
+        print("  Added 迭代学习 tab button")
+    
     # 替换allPosts数组 - 用位置查找而不是正则（避免content里的];干扰）
     start_marker = 'var allPosts = ['
     start_idx = html.index(start_marker)
